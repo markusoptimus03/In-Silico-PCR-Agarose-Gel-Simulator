@@ -1,3 +1,4 @@
+#Run this commands in the terminal: python -m pip install numpy matplotlib pandas
 import numpy as np
 import matplotlib.pyplot as plt
 from matplotlib.patches import Rectangle
