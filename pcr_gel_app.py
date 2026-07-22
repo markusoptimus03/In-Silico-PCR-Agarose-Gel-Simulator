@@ -1,3 +1,4 @@
+# Put this in the terminal of VS Code: python -m pip install numpy matplotlib pandas
 import numpy as np
 import matplotlib.pyplot as plt
 from matplotlib.patches import Rectangle
